@@ -1,4 +1,4 @@
-import { TimeLineT } from "../types";
+import { TimeLineT } from "@/types";
 import { useDetailsCard } from "../components/details-card/useDetailsCard";
 
 describe("test useDetailsCard", () => {

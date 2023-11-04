@@ -1,7 +1,7 @@
 import React from "react";
 import "./card-styled.css";
 import Image from "next/image";
-import { TimeLineT } from "@/app/page";
+import { TimeLineT } from "@/types";
 
 type Props = {
   timeLine: TimeLineT;

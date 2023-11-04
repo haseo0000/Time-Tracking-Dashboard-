@@ -1,4 +1,4 @@
-import { DataTimelineT, TimeLineT } from "../../types";
+import { DataTimelineT, TimeLineT } from "@/types";
 
 export function useDetailsCard(data: DataTimelineT, timeLine: TimeLineT) {
   const getImgBG = () => {
