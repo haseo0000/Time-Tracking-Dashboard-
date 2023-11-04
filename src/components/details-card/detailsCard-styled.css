@@ -1,0 +1,40 @@
+.detailsCard__container {
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.detailsCard__container:hover .details__container {
+  background: #34397b;
+}
+
+.detailsCard__container[data-details-type="Work"] {
+  background: var(--work-clr);
+}
+.detailsCard__container[data-details-type="Play"] {
+  background: var(--play-clr);
+}
+.detailsCard__container[data-details-type="Study"] {
+  background: var(--study-clr);
+}
+.detailsCard__container[data-details-type="Exercise"] {
+  background: var(--exercise-clr);
+}
+.detailsCard__container[data-details-type="Social"] {
+  background: var(--social-clr);
+}
+.detailsCard__container[data-details-type="Self Care"] {
+  background: var(--self-care-clr);
+}
+
+.details_img__container {
+  width: 70px;
+  position: absolute;
+  top: -5px;
+  right: 20px;
+  z-index: 10;
+}
+
+.details__container {
+  border-radius: 15px;
+  background: #1d204b;
+}

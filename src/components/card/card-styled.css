@@ -1,0 +1,21 @@
+.container__card {
+  border-radius: 15px;
+  background: #1d204b;
+  width: 100%;
+}
+
+.profile__section {
+  background: #5746ea;
+  border-radius: 15px;
+}
+
+.img__profile {
+  border: 3px solid #fff;
+  border-radius: 50%;
+}
+
+@media (min-width: 796px) {
+  .profile__section {
+    padding-bottom: 100px;
+  }
+}
