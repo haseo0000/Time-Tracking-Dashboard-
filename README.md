@@ -1,7 +1,6 @@
-## Practice Frontend Mentor
+## Frontend Mentor - Time Tracking Dashboard
 
-Time-Tracking-Dashboard
-
-## USING
-
+# USING
 React.js, Next.js, Typescript, Tailwindcss, css, Jest
+
+[DEMO](https://time-tracking-dashboard-blond.vercel.app/)
